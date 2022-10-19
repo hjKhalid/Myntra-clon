@@ -1,0 +1,169 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+body{
+    font-family: 'Dancing Script', cursive;
+}
+
+
+
+header{
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+margin: auto;
+height: 40px;
+position: sticky;
+top: 0;
+width: 36cm;
+background: white;
+}
+
+.container{
+    align-items: centers;
+    display: flex;
+
+
+}
+#Myntra{
+    height: 40px;
+
+}
+.searchbar{
+    
+    margin: 40px;
+    display: flex;
+    align-items: center;
+    width: 8cm;
+}
+i{
+    margin: 0%;
+}
+
+nav{
+    margin: 0%;
+    padding: 0%;
+    display: flex; 
+    width: 5px;
+    height: 30px;
+    
+    
+    align-items: center;
+    text-transform: uppercase;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+  
+}
+input{
+    height: 15px;
+    display:inline;
+    align-items: center;
+    margin: 10px;
+    padding: auto;
+    justify-content:space-between;
+}
+
+
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+li{
+    padding: 0 12px;
+    font-weight: 100;
+}
+    
+.logo{
+    display: flex ;
+    align-items: center;
+
+    
+}
+.profile{
+    margin: 15px;
+    justify-items: flex-end;
+    display: flex;
+    
+    
+}
+.home1{
+    border-radius: 10px;
+ margin: 2cm;
+ padding: 1cm;
+}
+.home2{
+    margin:1cm;
+    padding: 1cm;
+}
+.home3{
+    margin:1cm;
+    padding: 2cm;
+
+    display: flex;
+    width: 32cm;
+}
+.home4{
+    display: flex;
+    align-items: center;
+    margin: 1cm;
+ 
+}
+.home5{
+    padding: 1cm;
+    margin: 1cm;
+}
+
+.Wishlist{
+    margin: 15px;
+    display: flex;
+
+}
+.bag{
+    display: flex;
+    margin: 15px;
+}
+section{
+    background-color: rgb(236, 220, 220);
+    height: 250vh;
+    width: 36cm;
+    display: flex;
+    align-items: center;
+}
+.footer{
+    display: flex;
+    background-color: rgb(206, 228, 221);
+    width: 36cm;
+}
+.keep1{
+    width: 20%;
+    margin:1cm;
+}
+.keep{
+    width: 50%;
+}
+ol{
+    list-style: none;
+    align-items: center;
+}
+
+
+.f1{
+    margin: 0.5cm;
+    flex-direction: column;
+    padding:0.5cm;
+    display:flex;
+}
+.f2{
+    margin: 0.5cm;
+    flex-direction: column;
+    padding:0.5cm;
+    display:flex;
+}
+
+.f3{
+    
+    margin: 0.5cm;
+    flex-direction: column;
+    padding:0.5cm;
+    display:flex;
+
+}
